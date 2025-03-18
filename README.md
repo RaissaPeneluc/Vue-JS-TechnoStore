@@ -1,4 +1,4 @@
-# Vue-JS-TechnoStore
+# Techno Store
 
 ## Project setup
 ```
